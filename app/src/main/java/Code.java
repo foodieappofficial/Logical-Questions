@@ -1,4 +1,6 @@
 public class Code {
+
+// comment added by Ubaid Siddiqui
     public static void main(String[] args) {
         String name = "Zoroy";
         String forward = "";
