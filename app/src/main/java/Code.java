@@ -1,6 +1,7 @@
 public class Code {
 
 // comment added by Ubaid Siddiqui
+    //New Comment by Hrithik Koli
     public static void main(String[] args) {
         String name = "Zoroy";
         String forward = "";
